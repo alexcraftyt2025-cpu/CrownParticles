@@ -1,6 +1,6 @@
 name: CrownParticles
 main: CrownParticles\Main
-version: 1.0.0
+version: 1.0.1
 api: [1.12.0, 1.13.0]
 author: AlexcraftYT
 commands:
@@ -10,4 +10,5 @@ commands:
     permission: crownparticles.command
 
     
+
     
