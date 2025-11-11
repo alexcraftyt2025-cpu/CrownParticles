@@ -1,0 +1,13 @@
+name: CrownParticles
+main: CrownParticles\Main
+version: 1.0.0
+api: [1.12.0, 1.13.0]
+author: AlexcraftYT
+commands:
+  particulas:
+    description: Controla las partículas del jugador (corona de fuego, etc.).
+    usage: "/particulas [tipo]"
+    permission: crownparticles.command
+
+    
+    
